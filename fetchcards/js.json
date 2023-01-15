@@ -1,0 +1,18 @@
+{
+
+    "beach":[
+            
+            {"modal":"","des":"Boracay White Beach, Philippines  ","img":"/images/1_BoracayIsland_WhiteBeach_Philippines_shutterstock_401484094.jpg"  },
+        {"modal":"","des":"Blue Lagoon, Ölüdeniz, Turkey  ","img":"/images/2_BlueLagoon_Oludeniz_Turkey_shutterstock_699964363.jpg"  },
+        {"modal":"","des":"Na Pali Coast, Kauai, Hawaii  ","img":"/images/3_NaPaliCoast_Kauai_Hawaii_shutterstock_618002255.jpg"  },
+        {"modal":"","des":"Meeru Island, North Atoll, Maldives  ","img":"/images/4_MeeruMaldives_NorthAtoll_shutterstock_211516642.jpg"  },
+        {"modal":"","des":"Railay Beach, Krabi, Thailand  ","img":"/images/5_RailayBeach_Krabi_Thailand_shutterstock_126333494.jpg"  },
+        {"modal":"","des":"Whitehaven Beach, Queensland, Australia  ","img":"images/6_WhitehavenBeach_Australia_shutterstock_378831505.jpg"  },
+        {"modal":"","des":"Anse Source D’Argent, La Digue Island, Seychelles ","img":"images/7_AnseSourceDArgent_LaDigue_Seychelles_shutterstock_303523277.jpg"   },
+        {"modal":"","des":"Bai Sao, Phu Quoc, Vietnam  ","img":"images/8_BaiSao_PhuQuoc_Vietnam_shutterstock_788218273.jpg"  },
+        {"modal":"","des":"Bingin Beach, Bali, Indonesia  ","img":"images/9_BinginBeach_Bali_shutterstock_628214399.jpg"  },
+        {"modal":"","des":"McWay Falls, Big Sur, California  ","img":"images/10_McWayFalls_BigSur_California_shutterstock_127674656.jpg" },
+        {"modal":"","des":"Pensacola Beach, Florida ","img":"images/11_PensacolaBea-h_shutterstock_640578691.jpg"  },
+        {"modal":"","des":"Bamburgh, Northumberland, England  ","img":"images/12_GoldenBanburghCastle_NorthumberlandCoastline_shutterstock_467266697.jpg" }
+    ]
+}
